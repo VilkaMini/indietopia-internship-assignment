@@ -18,3 +18,20 @@ In addition to that, feedback in forms of visuals or sound is to be added upon c
  - Clean and easily understandable project structure and code.
 
 ## Idea definition
+Since I am a movie fan I have decided to create this project by showing off my 3 favorite movies.
+
+Each movie is dedicated a seperate room going from my third favorite to favorite.
+
+1. Imitation Game
+2. Dune
+3. Interstellar
+
+Above you can see the order of rooms themes I am going to try to create using publicly free assets.
+
+Player will press a button next to the door to navigate to the next room.
+Win condition is to walk through all the rooms and reach the final room.
+
+## Specifications
+I am going to use a mix of low and high poly assets from Unity Marketplace.
+
+## 
