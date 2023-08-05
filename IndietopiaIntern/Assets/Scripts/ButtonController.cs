@@ -4,6 +4,7 @@ using UnityEngine;
 public class ButtonController : MonoBehaviour
 {
     public Animator doorAnimator;
+    public ParticleSystem particleSystem;
     private AudioSource soundSource;
 
     private void Start()
@@ -14,5 +15,6 @@ public class ButtonController : MonoBehaviour
     {
         doorAnimator.SetTrigger("OpenDoor");
         soundSource.Play();
+        particleSystem.Play();
     }
 }
